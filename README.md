@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/ba97d687-f6e0-4ce0-907c-b1d9a71a7cae.png" width="100%" />
+  <img src="431ce5d15aab86f66a91ec9a07c9114f.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anas</h1>
