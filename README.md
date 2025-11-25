@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="/mnt/data/ba97d687-f6e0-4ce0-907c-b1d9a71a7cae.png" width="100%" />
+</p>
 
-<!--
-**RealAnass/RealAnass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anas</h1>
+<h3 align="center">Website Developer | Programmer | Coder</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💻 Website & Frontend Developer  
+- 👨‍💻 Programmer & Coder  
+- 🔥 Skilled in HTML, CSS, JavaScript & Backend Basics  
+- 🎯 Learning more about React, Node.js  
+- 🎶 Fun fact: I code better with music 🎧  
+
+---
+
+## 📬 Connect With Me  
+**Discord:** **r.t.q**
+
+---
+
+## 🧠 Skills & Technologies  
+
+### 🔥 Coding Knowledge
+
+| Language / Tech | Level |
+|------------------|-------|
+| 🐍 Python | **68%** |
+| 🟦 Lua | **32%** |
+| 🌐 HTML | **89%** |
+| 🎨 CSS | **87%** |
+| 🟩 Node.js | **50%** |
+| ☕ Java | **45%** |
+| ⚛️ React | **30%** |
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourgithub&theme=tokyonight" />
+</p>
+
+### 📈 Profile Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🗂️ Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Thanks for Visiting  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourgithub&color=blueviolet&style=flat-square" />
+</p>
